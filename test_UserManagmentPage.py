@@ -9,6 +9,7 @@ class userPage:
         self.usermodule_id = locators.lnkusermgn_id
         self.userlink_id = locators.lnkuser_id
 
+        
         self.user_search_text_id = locators.txtuserserach_id
         self.drp_user_rol_id = locators.drpuserrol_id
         self.emp_name_text_id = locators.txtempname_id
